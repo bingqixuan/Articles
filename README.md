@@ -12,4 +12,4 @@
 
 ## 可视化
 - [如何洞悉城市人群移动规律？DataV海量轨迹可视化实践解析](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247488506&idx=1&sn=4de7e503bc11c64cec7af98e8f0bd94f&chksm=e9292ef5de5ea7e3f5745d1273defa9bbe72912f13d930b1c345f99f7d60264ec5d0d4ae8444&mpshare=1&scene=23&srcid=1022Hfw4F6DPa1X2hNSmZIps#rd)
-
+- [3D 物理世界 - Three.js 与 Cannon.js 介绍与使用](https://aotu.io/notes/2018/10/18/cannonjs/?utm_source=tuicool&utm_medium=referral)
