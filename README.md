@@ -5,11 +5,13 @@
 
 - [RESTful API 最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 
+
 ## 前端
 
 - [2020年如何写一个现代的JavaScript库](https://mp.weixin.qq.com/s?__biz=MzA5NTM2MTEzNw==&mid=2736713618&idx=2&sn=733df2a274451bf896373df9571184ea&chksm=b6aace8c81dd479a739ee4424606cf8b40ba52006a661be73c4f3e931e4adab0382953de3221&mpshare=1&scene=23&srcid=1017XMhdT1XTEWhaRlkaP4wr#rd)
 - [移动端适配方案-让分辨率来的更猛烈些吧！](https://juejin.im/post/5bc7fb9ef265da0acd20ebeb)
 - [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
+
 
 ## 可视化
 
@@ -17,6 +19,12 @@
 - [3D 物理世界 - Three.js 与 Cannon.js 介绍与使用](https://aotu.io/notes/2018/10/18/cannonjs/?utm_source=tuicool&utm_medium=referral)
 - [超酷的全球人口密度 3D 交互式地图](https://mp.weixin.qq.com/s?__biz=MzIwNTU1MDM2Mg==&mid=2247486335&idx=3&sn=83c0026ce47d214b2a0c96d120a8df41&chksm=972e6d0aa059e41c32a9dbf2bccf75d9714fc32748b1e1084e8dd3a7349a1b34cfb4a7939e22&mpshare=1&scene=23&srcid=1114l45OZG4RZ3mZMSID456P#rd)
 
+
 ## 图像处理
 
 - [数字图像处理-前端实现](https://juejin.im/post/5bcee8816fb9a05cdd2d45a1)
+
+
+## 图形学原理
+
+- [WebGL 纹理详解](http://taobaofed.org/blog/2018/12/17/webgl-texture/)
